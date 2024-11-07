@@ -1,1 +1,1 @@
-print(19)
+print(1)
