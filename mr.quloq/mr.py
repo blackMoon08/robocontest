@@ -1,0 +1,2 @@
+abduraxmon = input()
+print(abduraxmon)
