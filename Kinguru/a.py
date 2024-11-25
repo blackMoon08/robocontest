@@ -1,0 +1,5 @@
+a,b,c,d=map(float,input().split()) 
+if a==c: print('YES') 
+elif d>=b and a<c: print('NO') 
+elif (c-a)/(b-d)-int((c-a)/(b-d))==0: print('YES') 
+else: print('NO')
